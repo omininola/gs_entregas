@@ -1,0 +1,10 @@
+Links
+
+  - Link Github: https://github.com/omininola/gs_java
+
+  - Link Deploy: https://gs-java-g2va.onrender.com/swagger-ui/index.html
+  (Deploy pode estar beeeeem lento, por conta do plano free, mas depois de uns 50 seg deve carregar e rodar normalmente) 
+
+  - Apresentação do projeto:
+
+  - Vídeo Pitch: 
