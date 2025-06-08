@@ -5,6 +5,6 @@ Links
   - Link Deploy: https://gs-java-g2va.onrender.com/swagger-ui/index.html
   (Deploy pode estar beeeeem lento, por conta do plano free, mas depois de uns 50 seg deve carregar e rodar normalmente) 
 
-  - Apresentação do projeto:
+  - Apresentação do projeto: https://youtu.be/bRSp333JNwI
 
-  - Vídeo Pitch: 
+  - Vídeo Pitch: https://youtu.be/Sd4V2oEn3bM
